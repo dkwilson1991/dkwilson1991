@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Keita</h1>
 <h3 align="center">A half 🇯🇵/🇺🇸 human being</h3>
 
-- 📄 Know about my experiences - <a href="https://www.figma.com/file/ERZAy5TAxazk8m8TEp97hn/Resume?node-id=0%3A1&t=YRV9YhjGggjSfqM0-1" target="blank">Figma</a>
+- 📄 Know about my experiences - <a href="https://www.figma.com/file/ERZAy5TAxazk8m8TEp97hn/Resume?node-id=0%3A1&t=YRV9YhjGggjSfqM0-1" target="blank">Resume</a>
 
 - 📫 How to reach me - **dkwilson1991@gmail.com**
 
