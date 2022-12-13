@@ -21,12 +21,6 @@ Casually with
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dkwilson1991"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dkwilson1991" /></a></p><br><br>
 
-<h3 align="left">My Good looking Supporters:</h3>
-<p align="left">
-<img width="80" alt="Mo" src="https://user-images.githubusercontent.com/102286740/205845926-15f815bb-0463-4116-b211-2eca47d0516f.png">
-<img width="80" alt="Mattias" src="https://user-images.githubusercontent.com/102286740/205845937-b471e467-8eb3-4898-9c01-e29f41a2b3be.png">
-</p>
-
 <h3 align="left">Hobbies:</h3>
 <p align="left">
 <img width="150" height="120" alt="LP" src="https://user-images.githubusercontent.com/102286740/205847075-272fad9a-44bf-43da-aed1-58dc06e9ad5f.gif">
